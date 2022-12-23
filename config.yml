@@ -1,5 +1,5 @@
 baseURL: "https://rubimugmug.github.io/"
-title: Bukan Tempat Les
+title: Bukan Tempat Les Tes 2
 paginate: 5
 theme: PaperMod
 
@@ -44,7 +44,7 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    disable Fingerprinting: true
+    disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
