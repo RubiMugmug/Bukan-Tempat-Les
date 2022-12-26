@@ -1,4 +1,4 @@
-title: Bukan Tempat Les Tes 2
+title: Bukan Tempat Les
 paginate: 5
 theme: PaperMod
 baseURL: "https://rubimugmug.github.io/bukan-tempat-les/"
@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, Edukasi, Matematika]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -44,7 +44,7 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    disableFingerprinting: true
+    #disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
@@ -73,16 +73,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Bukan Tempat Les"
+    Content: Blog Matematika Unik Berbahasa Indonesia
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+      url: "https://twitter.com/MugmugComics"
+    - name: youtube
+      url: "https://www.youtube.com/MugmugRubio"
+    - name: other
+      url: "https://linktr.ee/mugmugrubio"
 
   analytics:
     google:
@@ -112,20 +112,13 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+    
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
