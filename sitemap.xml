@@ -2,10 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rubimugmug.github.io/bukan-tempat-les/</loc>
+    <loc>https://rubimugmug.github.io/bukan-tempat-les/tags/bukan-tempat-les/</loc>
+    <lastmod>2022-12-26T21:18:01+01:00</lastmod>
   </url><url>
-    <loc>https://rubimugmug.github.io/bukan-tempat-les/categories/</loc>
+    <loc>https://rubimugmug.github.io/bukan-tempat-les/</loc>
+    <lastmod>2022-12-26T21:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://rubimugmug.github.io/bukan-tempat-les/posts/hello-world/</loc>
+    <lastmod>2022-12-26T21:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://rubimugmug.github.io/bukan-tempat-les/tags/matematika/</loc>
+    <lastmod>2022-12-26T21:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://rubimugmug.github.io/bukan-tempat-les/tags/motivasi/</loc>
+    <lastmod>2022-12-26T21:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://rubimugmug.github.io/bukan-tempat-les/posts/</loc>
+    <lastmod>2022-12-26T21:18:01+01:00</lastmod>
   </url><url>
     <loc>https://rubimugmug.github.io/bukan-tempat-les/tags/</loc>
+    <lastmod>2022-12-26T21:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://rubimugmug.github.io/bukan-tempat-les/categories/</loc>
   </url>
 </urlset>

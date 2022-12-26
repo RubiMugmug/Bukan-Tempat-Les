@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bukan Tempat Les</title>
-    <link>https://rubimugmug.github.io/bukan-tempat-les/</link>
+    <link>https://rubimugmug.github.io/bukan-tempat-les/tags/bukan-tempat-les/</link>
     <description>Recent content on Bukan Tempat Les</description>
     <image>
       <url>https://rubimugmug.github.io/bukan-tempat-les/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://rubimugmug.github.io/bukan-tempat-les/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Dec 2022 21:18:01 +0100</lastBuildDate><atom:link href="https://rubimugmug.github.io/bukan-tempat-les/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 21:18:01 +0100</lastBuildDate><atom:link href="https://rubimugmug.github.io/bukan-tempat-les/tags/bukan-tempat-les/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bukan Tempat Les (Matematika)</title>
       <link>https://rubimugmug.github.io/bukan-tempat-les/posts/hello-world/</link>
