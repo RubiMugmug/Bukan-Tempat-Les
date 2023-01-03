@@ -1,7 +1,7 @@
 ---
 title: "Keajaiban Ulang Tahun Hololive"
 date: 2023-01-03T14:03:37+01:00
-tags: ["Matematika", "Level SMA", "Ulang Tahun", "Peluang", "Statistika", "Wibu", "Vtuber"]
+tags: ["Matematika", "Level SMA", "Peluang", "Statistika", "Wibu", "Vtuber" , "Ulang Tahun"]
 ---
 
 Halo kawan-kawan *wibu* dan *non-wibu*.
@@ -14,7 +14,7 @@ Kali ini saya menulis tentang sebuah bilangan yang menarik, dan kaitannya dengan
 
 # Dua Puluh Tiga
 Saya punya fakta yang menarik tentang bilangan 23.
-Tahukah anda, jika 23 orang dipilih secara acak, ada peluang sekitar 50% setidaknya dua dari mereka memiliki tanggal ulang tahun yang saling bertepatan.
+Jika 23 orang dipilih secara acak, ada peluang sekitar 50% setidaknya dua dari mereka memiliki tanggal ulang tahun yang saling bertepatan.
 
 Fakta ini dikenal sebagai *Birthday Paradox*. Jika anda sudah kenal dengan fakta ini, anda boleh loncat ke bagian berikutnya. Jika belum, gambaran kasar dari buktinya ada di bagian ini.
 
@@ -34,19 +34,20 @@ Ini adalah soal utama yang ingin kita jawab.
 Adalah soal jebakan yang mungkin muncul di pikiran kita. Ini bukanlah soal yang *salah*, tapi bukan ini soal yang kita bicarakan. Sekarang, kedua soal tersebut akan kita kupas.
 
 *Untuk mempermudah perhitungan, kita akan mengasumsikan peluang seseorang lahir di tanggal 29 Februari sama dengan tanggal lain, meski nyatanya tidak begitu.
-Anda boleh mencoba mencari cara yang lebih akurat, namun hasil akhirnya tidak akan jauh berbeda.
-Ini Bukan Tempat Les, tidak ada nilai ujian atau nilai PR yang perlu dikhawatirkan di sini.
+Anda boleh mencoba mencari cara yang lebih akurat, namun hasil akhirnya tidak akan jauh berbeda.*
+
+*Ini Bukan Tempat Les, tidak ada nilai ujian atau nilai PR yang perlu dikhawatirkan di sini.
 Lagipula, inti dari cerita ini masih sama.*
 
-Mari kita mulai dari soal B. Apabila kamu masuk ke ruangan yang ada 23 orang lain, peluang bahwa ada orang yang memiliki tanggal ulang tahun yang bertepatan dengan tanggal ulang tahunmu hanya 23/365, sekitar 6%. Di kasus ini, kamu membandingkan dirimu dengan 23 orang yang lain.
+Mari kita mulai dari soal B. Apabila kamu masuk ke ruangan yang ada 23 orang lain, peluang bahwa ada orang yang memiliki tanggal ulang tahun yang bertepatan dengan tanggal ulang tahunmu hanya 23/366, sekitar 6%. Di kasus ini, kamu membandingkan dirimu dengan 23 orang yang lain.
 
 Kembali ke soal A. Sebelum melakukan perhitungan peluang untuk memperoleh jawaban sekitar 1/2, mari kita lihat secara sekilas berapa perbandingan yang terjadi. Saat kita membandingkan tanggal lahir, kita memilih 2 orang untuk dibandingkan. Ada berapa banyak cara untuk memilih 2 orang dari 23 orang? 
 
 $$\binom{23}{2} = \frac{23!}{2!21!} = \frac{23 \cdot 22}{2} = 253$$
 
-Kita melakukan 253 perbandingan, ini adalah bilangan yang jauh lebih dekat dengan 365 daripada 22. Tentu jawaban akhirnya bukan 253/365, tapi sekarang setidaknya jawaban 1/2 terdengar masuk akal. 
+Artinya kita melakukan 253 perbandingan, ini adalah bilangan yang jauh lebih dekat dengan 365 daripada 22. Tentu jawaban akhirnya bukan 253/365, tapi sekarang setidaknya jawaban 1/2 terdengar masuk akal. 
 
-Proses yang baru saja kita lakukan sebuah *sanity check*. Kita tidak mendapat jawaban dari soal A, melainkan sebuah perkiraan kasar yang mengkonfirmasi bahwa jawaban 1/2 masuk akal.
+Kita baru saja melakukan sebuah *sanity check*. Kita tidak mendapat jawaban dari soal A, melainkan sebuah perkiraan kasar yang mengkonfirmasi bahwa jawaban 1/2 masuk akal.
 
 ### Perhitungan Peluang: Komplemen dan Pola
 Sekarang kita akan mencari jawaban soal A. Untuk itu, kita akan menghitung peluang dari komplemennya. Ini karena peluang dari suatu kejadian bisa diperoleh dari komplemennya, dan komplemen dari jawaban soal A lebih mudah untuk dihitung,
@@ -93,8 +94,8 @@ Akhirnya kita bisa menjawab soal pertama, dengan bantuan
 Jika 23 orang dipilih secara acak, peluang ada orang yang memiliki tanggal ulang tahun yang saling bertepatan sekitar 0,506. Tidak jauh dari 1/2.
 
 # Bukalah Gerbang Keajaiban
-Tahukah anda bahwa perusahaan vtuber Hololive memiliki 55 anggota perempuan aktif.
-Apabila rumus yang kita peroleh kita berikan input *n* = 55, diperoleh peluang "ada pasangan vtuber Hololive perempuan aktif yang memiliki tanggal ulang tahun yang bertepatan." sekitar 0,986. Artinya komplemennya memiliki peluang sekitar 1-0.986 = 0.014
+Perusahaan vtuber Hololive memiliki 55 anggota perempuan aktif.
+Apabila rumus yang kita peroleh kita berikan input *n* = 55, kita peroleh peluang "ada pasangan vtuber Hololive perempuan aktif yang memiliki tanggal ulang tahun yang bertepatan" sekitar 0,986. Artinya komplemennya memiliki peluang sekitar 1-0.986 = 0.014 = 1,4%
 
 Namun, tidak ada pasangan vtuber Hololive perempuan aktif yang memiliki tanggal ulang tahun yang bertepatan. Kejadian dengan peluang 0,014 ini saya sebut "Keajaiban Ulang Tahun Hololive".
 
@@ -107,39 +108,46 @@ Ada beberapa vtuber yang menggeser tanggal ulang tahun virtual mereka, dan ada j
 
 Ada beberapa alasan mereka melakukan ini:
 
-1. Tanggal dipilih untuk kenyamanan pemeran.
+1. **Tanggal dipilih untuk kenyamanan pemeran.**
 
     Ulang tahun adalah hari kerja bagi vtuber, mereka akan sibuk membuat konten ulang tahun mereka sendiri. Beberapa talent mungkin akan menggeser ulang tahun virtual mereka, supaya ada waktu untuk merayakan ulang tahun pribadi.
-2. Tanggal dipilih untuk menjaga privasi pemeran.
+
+2. **Tanggal dipilih untuk menjaga privasi pemeran.**
 
     Ulang tahun termasuk data pribadi, dan beberapa vtuber akan menggeser untuk menambah lapisan perlindungan privasi mereka.
-3. *Lore Gimmick*, tanggal dipilih sesuai tema dari karakter vtuber.
+
+3. ***Lore Gimmick*, tanggal dipilih sesuai tema dari karakter vtuber.**
 
     Contohnya si hiu Gawr Gura lahir di tanggal tayang perdana film Jaws (20 Juni), atau si Zombie Kureiji Ollie lahir di Hari Zombie Sedunia (13 Oktober)
-4. Tanggal dipilih untuk menghindari tanggal yang saling bertepatan.
 
-    Angka peluang 0,014 yang kita punya dapat menjadi bukti statistik untuk alasan 4.
-    Dalam statistik, kita perlu merumuskan hipotesis nol dan hipotesis alternatif.
-    
-    Hipotesis nol: "Alasan 4 tidak mempengaruhi vtuber Hololive dalam menentukan tanggal lahir."
-    
-    Hipotesis alternatif: "Alasan 4 mempengaruhi vtuber Hololive dalam menentukan tanggal lahir."
+4. **Tanggal dipilih untuk menghindari tanggal yang saling bertepatan.**
 
-    Peluang 0,014 yang kita punya adalah peluang dari kejadian yang kita amati terjadi, dengan mengasumsikan Hipotesis nol. Ini disebut p-value. p-value bernilai 0,014 cukup kecil untuk menolak hipotesis nol. Dapat disimpulkan bahwa alasan 4 memiliki pengaruh yang signifikan secara statistik.
+    Tanggal ulang tahun yang saling bertepatan akan menyebabkan audiens terpecah menjadi 2, karena ada konflik jadwal antara dua perayaan penting di hari yang sama.
+    
+Angka peluang 0,014 yang kita peroleh dapat menjadi bukti statistik untuk alasan 4.
+Dalam statistik, kita perlu merumuskan hipotesis nol dan hipotesis alternatif.
+
+Hipotesis nol: "Alasan 4 tidak mempengaruhi vtuber Hololive dalam menentukan tanggal lahir."
+    
+Hipotesis alternatif: "Alasan 4 mempengaruhi vtuber Hololive dalam menentukan tanggal lahir."
+
+Peluang 0,014 yang kita punya adalah peluang dari kejadian yang kita amati terjadi, dengan mengasumsikan Hipotesis nol. Ini disebut p-value. p-value bernilai 0,014 cukup kecil untuk menolak hipotesis nol. Dapat disimpulkan bahwa alasan 4 memiliki pengaruh yang signifikan secara statistik.
 
 Statistik tidak selalu bisa memberikan kesimpulan yang pasti, jadi kecuali ada testimoni dari vtuber Hololive, kita tidak akan tahu pasti (dan kita tidak perlu tahu).
 
-Secara umum, pola ini juga bisa dilihat di kelompok vtuber lain, meski tidak signifikan secara statistik.
+### Observasi Tambahan
+
+Secara umum, keajaiban ini juga bisa dilihat di kelompok vtuber lain, meski tidak signifikan secara statistik.
 1. Nijisanji (ex) ID dengan 18 orang tidak memiliki pasangan orang yang tanggal ulang tahunnya bertepatan, peluang ini terjadi sekitar 65,4%.
 2. Nijisanji EN dengan 35 orang tidak memiliki pasangan orang yang tanggal ulang tahunnya bertepatan, peluang ini terjadi sekitar 18,7%.
 
-Perlu diingat bahwa dalam sejarah Hololive ada tiga pasangan anggota Hololive yang ulang tahunnya bertepatan.
+Perlu diingat juga bahwa dalam sejarah Hololive ada tiga pasangan anggota Hololive yang tanggal ulang tahunnya saling bertepatan.
 1. Astel Leda dengan Tsunomaki Watame (6 Juni)
 2. Ayunda Risu dengan Aragami Oga (15 Januari)
 3. Artia dengan Hakui Koyori (15 Maret)
 
 Saya pikir bukti ini tidak cukup untuk menyangkal alasan 4.
-Astel dan Oga adalah vtuber laki-laki dari cabang Holostars, yang mungkin struktur manajemennya berbeda. Tanggal debut Astel, Watame, Risu dan Oga juga sangat berdekatan. Secara berurutan. 7 Desember 2019, 29 Desember 2019, 10 April 2020, 1 Mei 2020. Sementara Artia adalah mantan anggota Hololive CN, yang berhenti aktif jauh sebelum debut Koyori.
+Astel dan Oga adalah vtuber laki-laki dari cabang Holostars, yang mungkin struktur manajemen dan target pasarnya berbeda. Tanggal debut Astel, Watame, Risu dan Oga juga sangat berdekatan: 7 Desember 2019, 29 Desember 2019, 10 April 2020, dan 1 Mei 2020. Sementara Artia adalah mantan anggota Hololive CN, yang berhenti aktif jauh sebelum debut Koyori.
 
 Bagaimana menurut kalian? Apakah alasan 4 efeknya nyata, atau "Keajaiban Ulang Tahun Hololive" hanyalah kebetulan?
 
