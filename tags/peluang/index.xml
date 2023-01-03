@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bukan Tempat Les</title>
-    <link>https://rubimugmug.github.io/bukan-tempat-les/</link>
-    <description>Recent content on Bukan Tempat Les</description>
+    <title>Peluang on Bukan Tempat Les</title>
+    <link>https://rubimugmug.github.io/bukan-tempat-les/tags/peluang/</link>
+    <description>Recent content in Peluang on Bukan Tempat Les</description>
     <image>
       <url>https://rubimugmug.github.io/bukan-tempat-les/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://rubimugmug.github.io/bukan-tempat-les/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 14:03:37 +0100</lastBuildDate><atom:link href="https://rubimugmug.github.io/bukan-tempat-les/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 14:03:37 +0100</lastBuildDate><atom:link href="https://rubimugmug.github.io/bukan-tempat-les/tags/peluang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keajaiban Ulang Tahun Hololive</title>
       <link>https://rubimugmug.github.io/bukan-tempat-les/posts/birthday/</link>
@@ -19,16 +19,6 @@
       <description>Halo kawan-kawan wibu dan non-wibu. Saya Rubio, mahasiswa matematika dan wibu pengamat vtuber. Pertama, saya mau mengucapkan selamat Tahun Baru 2023. Semoga di tahun ini kalian bisa melihat dunia yang penuh hal-hal menarik. Penuh dengan keluarga, teman, vtuber, dan mungkin juga matematika.
 Kali ini saya menulis tentang sebuah bilangan yang menarik, dan kaitannya dengan ulang tahun vtuber Hololive.
 Dua Puluh Tiga Saya punya fakta yang menarik tentang bilangan 23. Jika 23 orang dipilih secara acak, ada peluang sekitar 50% setidaknya dua dari mereka memiliki tanggal ulang tahun yang saling bertepatan.</description>
-    </item>
-    
-    <item>
-      <title>Bukan Tempat Les (Matematika)</title>
-      <link>https://rubimugmug.github.io/bukan-tempat-les/posts/hello-world/</link>
-      <pubDate>Mon, 26 Dec 2022 21:18:01 +0100</pubDate>
-      
-      <guid>https://rubimugmug.github.io/bukan-tempat-les/posts/hello-world/</guid>
-      <description>Halo Dunia. Saya Rubio, seorang sarjana matematika dari ITB dan calon mahasiswa S3 matematika. Bagi saya, matematika menarik untuk dipelajari, berguna ketika diterapkan, dan indah untuk dikagumi. &amp;ldquo;Bukan Tempat Les&amp;rdquo; adalah blog tempat saya akan menulis matematika yang menarik dan mengejutkan.
-Asal Mula Blog Ini Dari dulu, saya seringkali merasa canggung ketika bicara tentang jurusan kuliahku. Banyak orang yang bingung ataupun menganggap aneh jurusanku. Matematika tampaknya menjadi salah satu keilmuan paling dibenci dan ditakuti di Indonesia.</description>
     </item>
     
   </channel>
