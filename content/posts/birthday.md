@@ -10,7 +10,7 @@ Pertama, saya mau mengucapkan selamat Tahun Baru 2023.
 Semoga di tahun ini kalian bisa melihat dunia yang penuh hal-hal menarik.
 Penuh dengan keluarga, teman, vtuber, dan mungkin juga matematika.
 
-Kali ini saya menulis tentang sebuah bilangan yang menarik, dan kaitannya dengan ulang tahun *vtuber* Hololive.
+Kali ini saya menulis tentang sebuah bilangan yang menarik, dan kaitannya dengan ulang tahun vtuber Hololive.
 
 # Dua Puluh Tiga
 Saya punya fakta yang menarik tentang bilangan 23.
