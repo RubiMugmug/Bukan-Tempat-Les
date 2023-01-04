@@ -94,10 +94,10 @@ Akhirnya kita bisa menjawab soal pertama, dengan bantuan
 Jika 23 orang dipilih secara acak, peluang ada orang yang memiliki tanggal ulang tahun yang saling bertepatan sekitar 0,506. Tidak jauh dari 1/2.
 
 # Bukalah Gerbang Keajaiban
-Perusahaan vtuber Hololive memiliki 55 anggota perempuan aktif.
-Apabila rumus yang kita peroleh kita berikan input *n* = 55, kita peroleh peluang "ada pasangan vtuber Hololive perempuan aktif yang memiliki tanggal ulang tahun yang bertepatan" sekitar 0,986. Artinya komplemennya memiliki peluang sekitar 1-0.986 = 0.014 = 1,4%
+Perusahaan vtuber Hololive memiliki 54 anggota perempuan aktif.
+Apabila rumus yang kita peroleh kita berikan input *n* = 54, kita peroleh peluang "ada pasangan vtuber Hololive perempuan aktif yang memiliki tanggal ulang tahun yang bertepatan" sekitar 0,984. Artinya komplemennya memiliki peluang sekitar 1-0,984 = 0,016 = 1,6%
 
-Namun, tidak ada pasangan vtuber Hololive perempuan aktif yang memiliki tanggal ulang tahun yang bertepatan. Kejadian dengan peluang 0,014 ini saya sebut "Keajaiban Ulang Tahun Hololive".
+Namun, tidak ada pasangan vtuber Hololive perempuan aktif yang memiliki tanggal ulang tahun yang bertepatan. Kejadian dengan peluang 0,016 ini saya sebut "Keajaiban Ulang Tahun Hololive".
 
 ## Rahasia Umum
 Kesimpulannya adalah hal yang mungkin kebanyakan penonton vtuber sudah tahu.
@@ -124,14 +124,14 @@ Ada beberapa alasan mereka melakukan ini:
 
     Tanggal ulang tahun yang saling bertepatan akan menyebabkan audiens terpecah menjadi 2, karena ada konflik jadwal antara dua perayaan penting di hari yang sama.
     
-Angka peluang 0,014 yang kita peroleh dapat menjadi bukti statistik untuk alasan 4.
+Angka peluang 0,016 yang kita peroleh dapat menjadi bukti statistik untuk alasan 4.
 Dalam statistik, kita perlu merumuskan hipotesis nol dan hipotesis alternatif.
 
 Hipotesis nol: "Alasan 4 tidak mempengaruhi vtuber Hololive dalam menentukan tanggal lahir."
     
 Hipotesis alternatif: "Alasan 4 mempengaruhi vtuber Hololive dalam menentukan tanggal lahir."
 
-Peluang 0,014 yang kita punya adalah peluang dari kejadian yang kita amati terjadi, dengan mengasumsikan Hipotesis nol. Ini disebut p-value. p-value bernilai 0,014 cukup kecil untuk menolak hipotesis nol. Dapat disimpulkan bahwa alasan 4 memiliki pengaruh yang signifikan secara statistik.
+Peluang 0,016 yang kita punya adalah peluang dari kejadian yang kita amati terjadi, dengan mengasumsikan Hipotesis nol. Ini disebut p-value. p-value bernilai 0,016 cukup kecil untuk menolak hipotesis nol. Dapat disimpulkan bahwa alasan 4 memiliki pengaruh yang signifikan secara statistik.
 
 Statistik tidak selalu bisa memberikan kesimpulan yang pasti, jadi kecuali ada testimoni dari vtuber Hololive, kita tidak akan tahu pasti (dan kita tidak perlu tahu).
 
