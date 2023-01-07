@@ -65,8 +65,8 @@ Sekarang kita akan menjawab soal C dengan mengamati pola untuk 1,2, dan 3.
     Karena hanya ada 2 orang, 
     maka peluang "**tidak ada** pasangan orang yang memiliki tanggal ulang tahun yang saling bertepatan" juga 365/366
 
-    Sehingga peluang "**ada** pasangan orang yang memiliki tanggal ulang tahun yang saling bertepata"n" adalah komplemennya,
-    $$ 1 - 1/366$$
+    Sehingga peluang "**ada** pasangan orang yang memiliki tanggal ulang tahun yang saling bertepatan" adalah komplemennya,
+    $$ 1 - 365/366 = 1/366$$
 
 3. Apabila kita tambahkan orang ke-3, peluang orang tersebut memiliki ulang tahun yang berbeda dengan dua orang sebelumnya adalah
 
@@ -139,7 +139,7 @@ Statistik tidak selalu bisa memberikan kesimpulan yang pasti, jadi kecuali ada t
 
 Secara umum, keajaiban ini juga bisa dilihat di kelompok vtuber lain, meski tidak signifikan secara statistik.
 1. Nijisanji (ex) ID dengan 18 orang tidak memiliki pasangan orang yang tanggal ulang tahunnya bertepatan, peluang ini terjadi sekitar 65,4%.
-2. Nijisanji EN dengan 35 orang tidak memiliki pasangan orang yang tanggal ulang tahunnya bertepatan, peluang ini terjadi sekitar 18,7%.
+2. Nijisanji EN dengan 31 orang tidak memiliki pasangan orang yang tanggal ulang tahunnya bertepatan, peluang ini terjadi sekitar 27,1%.
 
 Perlu diingat juga bahwa dalam sejarah Hololive ada tiga pasangan anggota Hololive yang tanggal ulang tahunnya saling bertepatan.
 1. Astel Leda dengan Tsunomaki Watame (6 Juni)
